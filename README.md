@@ -3,7 +3,7 @@
 Hi, 
 I retextured the rockstar apartment and also placed a safe on the wall in the apartments. The package contains 6 different designs. I also changed the texture of the kitchen. 
 
-I hope you like it :slight_smile: 
+I hope you like it!
 
 **Coordinates:**
 Shell 1:
